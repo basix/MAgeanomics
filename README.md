@@ -2,8 +2,8 @@
 An attempt at modeling the Magic The Gathering card game.
 
 ## Authors:
-Drake Campbell
-Daniel Herrera
+* Drake Campbell
+* Daniel Herrera
 
 ## Overview:
 The goal is to programatically test different compositions of cards against known lists read from popular published sources.

@@ -1,0 +1,7 @@
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\UnitTests\bin\Debug\UnitTests.dll
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\UnitTests\bin\Debug\MAgeanomics.exe
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\UnitTests\bin\Debug\MAgeanomics.pdb
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\UnitTests\obj\Debug\UnitTests.dll
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\UnitTests\obj\Debug\UnitTests.pdb

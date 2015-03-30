@@ -1,0 +1,13 @@
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\bin\Debug\MAgeanomics.exe.config
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\bin\Debug\MAgeanomics.exe
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\bin\Debug\MAgeanomics.pdb
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\obj\Debug\MAgeanomics.csprojResolveAssemblyReference.cache
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\obj\Debug\MainWindow.baml
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\obj\Debug\MainWindow.g.cs
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\obj\Debug\App.g.cs
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\obj\Debug\MAgeanomics_MarkupCompile.cache
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\obj\Debug\MAgeanomics.g.resources
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\obj\Debug\Mageanomics.Properties.Resources.resources
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\obj\Debug\MAgeanomics.csproj.GenerateResource.Cache
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\obj\Debug\MAgeanomics.exe
+c:\users\drake\documents\visual studio 2013\Projects\MAgeanomics\MAgeanomics\obj\Debug\MAgeanomics.pdb
